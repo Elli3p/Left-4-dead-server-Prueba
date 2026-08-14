@@ -1,0 +1,25 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/melee/barnacle/barnacle_sheet"	
+	"$bumpmap" "models/weapons/melee/barnacle/barnacle_normal"	
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "10"
+	//"$phongexponenttexture" "models/barnacle/barnacle_phong"
+	//"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[0.6 .1 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	
+	//env map stuff
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .01 .01 .01 ]"
+	"$normalmapalphaenvmapmask" "1"		
+	"$envmapfresnel" "1"
+	"$envmapfresnelminmaxexp "	"[0.6 .1 1]"
+
+}   
+    
+    
