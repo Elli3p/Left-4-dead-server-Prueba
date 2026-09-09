@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+$basetexture "models/infected/tank_riot/riot_faceplate"
+
+$envmap env_cubemap
+$envmapmask "models/infected/tank_riot/riot_faceplate_envmapmask"
+
+}
